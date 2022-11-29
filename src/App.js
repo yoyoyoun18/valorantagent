@@ -5,7 +5,6 @@ import Searchrank from './components/Searchrank';
 import jsonfile from './champion.json';
 
 function App() {
-  localStorage.setItem('data', jsonfile);
 
   return (
     <div className="App">
