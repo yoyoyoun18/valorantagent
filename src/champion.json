@@ -1,0 +1,12 @@
+{
+    "viper": {
+        "name" : "바이퍼",
+        "count" : 0,
+        "id" : 1
+    },
+    "cypher": {
+        "name" : "사이퍼",
+        "count" : 0,
+        "id" : 2
+    }
+}
